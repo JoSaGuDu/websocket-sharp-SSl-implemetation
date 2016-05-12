@@ -1,0 +1,13 @@
+F:\UpWork\WebsocketSetup\WebsocketServer\bin\Debug\WebsocketServer.exe.config
+F:\UpWork\WebsocketSetup\WebsocketServer\bin\Debug\WebsocketServer.exe
+F:\UpWork\WebsocketSetup\WebsocketServer\bin\Debug\WebsocketServer.pdb
+F:\UpWork\WebsocketSetup\WebsocketServer\bin\Debug\websocket-sharp.dll
+F:\UpWork\WebsocketSetup\WebsocketServer\obj\Debug\WebsocketServer.exe
+F:\UpWork\WebsocketSetup\WebsocketServer\obj\Debug\WebsocketServer.pdb
+F:\GitHub\WebsocketSetup\WebsocketServer\bin\Debug\WebsocketServer.exe.config
+F:\GitHub\WebsocketSetup\WebsocketServer\obj\Debug\WebsocketServer.exe
+F:\GitHub\WebsocketSetup\WebsocketServer\obj\Debug\WebsocketServer.pdb
+F:\GitHub\WebsocketSetup\WebsocketServer\bin\Debug\WebsocketServer.exe
+F:\GitHub\WebsocketSetup\WebsocketServer\bin\Debug\WebsocketServer.pdb
+F:\GitHub\WebsocketSetup\WebsocketServer\bin\Debug\websocket-sharp.dll
+F:\GitHub\WebsocketSetup\WebsocketServer\obj\Debug\WebsocketServer.csprojResolveAssemblyReference.cache

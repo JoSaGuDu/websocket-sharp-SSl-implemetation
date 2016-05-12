@@ -1,0 +1,14 @@
+F:\UpWork\WebsocketSetup\WebsocketClient\bin\Debug\WebsocketClient.exe.config
+F:\UpWork\WebsocketSetup\WebsocketClient\bin\Debug\WebsocketClient.exe
+F:\UpWork\WebsocketSetup\WebsocketClient\bin\Debug\WebsocketClient.pdb
+F:\UpWork\WebsocketSetup\WebsocketClient\bin\Debug\websocket-sharp.dll
+F:\UpWork\WebsocketSetup\WebsocketClient\obj\Debug\WebsocketClient.csprojResolveAssemblyReference.cache
+F:\UpWork\WebsocketSetup\WebsocketClient\obj\Debug\WebsocketClient.exe
+F:\UpWork\WebsocketSetup\WebsocketClient\obj\Debug\WebsocketClient.pdb
+F:\GitHub\WebsocketSetup\WebsocketClient\bin\Debug\WebsocketClient.exe.config
+F:\GitHub\WebsocketSetup\WebsocketClient\bin\Debug\WebsocketClient.exe
+F:\GitHub\WebsocketSetup\WebsocketClient\bin\Debug\WebsocketClient.pdb
+F:\GitHub\WebsocketSetup\WebsocketClient\bin\Debug\websocket-sharp.dll
+F:\GitHub\WebsocketSetup\WebsocketClient\obj\Debug\WebsocketClient.csprojResolveAssemblyReference.cache
+F:\GitHub\WebsocketSetup\WebsocketClient\obj\Debug\WebsocketClient.exe
+F:\GitHub\WebsocketSetup\WebsocketClient\obj\Debug\WebsocketClient.pdb

@@ -1,0 +1,10 @@
+F:\UpWork\WebsocketSetup\WebsocketSetup\bin\Debug\WebsocketSetup.exe.config
+F:\UpWork\WebsocketSetup\WebsocketSetup\bin\Debug\WebsocketSetup.exe
+F:\UpWork\WebsocketSetup\WebsocketSetup\bin\Debug\WebsocketSetup.pdb
+F:\UpWork\WebsocketSetup\WebsocketSetup\bin\Debug\Pluralsight.Crypto.dll
+F:\UpWork\WebsocketSetup\WebsocketSetup\bin\Debug\websocket-sharp.dll
+F:\UpWork\WebsocketSetup\WebsocketSetup\bin\Debug\websocket-sharp.pdb
+F:\UpWork\WebsocketSetup\WebsocketSetup\obj\Debug\WebsocketSetup.csprojResolveAssemblyReference.cache
+F:\UpWork\WebsocketSetup\WebsocketSetup\obj\Debug\WebsocketSetup.exe
+F:\UpWork\WebsocketSetup\WebsocketSetup\obj\Debug\WebsocketSetup.pdb
+F:\UpWork\WebsocketSetup\WebsocketSetup\bin\Debug\WebsocketServer.exe.config

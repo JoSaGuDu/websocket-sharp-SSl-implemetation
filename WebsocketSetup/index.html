@@ -1,0 +1,25 @@
+<center>
+
+	<input type="text" id="data" style="font-size:30px;width:500px;margin-top:50px;"></input>
+		<br/>
+	<button onclick="SendData()" style="width:100px;margin-top:20px;padding:20px;">Send</button>
+</center>
+
+<script>
+	
+	var isConOpen=false;
+	var websocket = new WebSocket("ws://127.0.0.1:8551/Print");
+	websocket.onopen=function(){isConOpen=true;};
+	function SendData()
+	{
+		if(!isConOpen)
+		{	
+			alert("Not connected yet");
+			return;
+		}
+		var val=document.getElementById('data').value;
+		websocket.send(val);
+		console.log("Sent data:"+val);
+	}
+	
+</script>
