@@ -11,3 +11,11 @@ F:\GitHub\WebsocketSetup\WebsocketServer\bin\Debug\WebsocketServer.exe
 F:\GitHub\WebsocketSetup\WebsocketServer\bin\Debug\WebsocketServer.pdb
 F:\GitHub\WebsocketSetup\WebsocketServer\bin\Debug\websocket-sharp.dll
 F:\GitHub\WebsocketSetup\WebsocketServer\obj\Debug\WebsocketServer.csprojResolveAssemblyReference.cache
+C:\Users\RE-AK-PC1\Google Drive\Formation\websocketsharp\websocket-sharp-SSL-implementation\WebsocketSetup\WebsocketServer\bin\Debug\WebsocketServer.exe.config
+C:\Users\RE-AK-PC1\Google Drive\Formation\websocketsharp\websocket-sharp-SSL-implementation\WebsocketSetup\WebsocketServer\bin\Debug\WebsocketServer.exe
+C:\Users\RE-AK-PC1\Google Drive\Formation\websocketsharp\websocket-sharp-SSL-implementation\WebsocketSetup\WebsocketServer\bin\Debug\WebsocketServer.pdb
+C:\Users\RE-AK-PC1\Google Drive\Formation\websocketsharp\websocket-sharp-SSL-implementation\WebsocketSetup\WebsocketServer\bin\Debug\websocket-sharp.dll
+C:\Users\RE-AK-PC1\Google Drive\Formation\websocketsharp\websocket-sharp-SSL-implementation\WebsocketSetup\WebsocketServer\obj\Debug\WebsocketServer.csprojAssemblyReference.cache
+C:\Users\RE-AK-PC1\Google Drive\Formation\websocketsharp\websocket-sharp-SSL-implementation\WebsocketSetup\WebsocketServer\obj\Debug\WebsocketServer.csproj.CopyComplete
+C:\Users\RE-AK-PC1\Google Drive\Formation\websocketsharp\websocket-sharp-SSL-implementation\WebsocketSetup\WebsocketServer\obj\Debug\WebsocketServer.exe
+C:\Users\RE-AK-PC1\Google Drive\Formation\websocketsharp\websocket-sharp-SSL-implementation\WebsocketSetup\WebsocketServer\obj\Debug\WebsocketServer.pdb

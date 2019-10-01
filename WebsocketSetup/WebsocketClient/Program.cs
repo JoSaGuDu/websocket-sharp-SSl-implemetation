@@ -10,7 +10,7 @@ namespace WebsocketClient
             try
             {
                 Console.Title = "Websocket Client";
-                using (var ws = new WebSocket("wss://127.0.0.1:8551/Print"))
+                using (var ws = new WebSocket("ws://127.0.0.1:8551/Print"))
                 {
                     ws.Connect();
                     Console.WriteLine("Connected to server");

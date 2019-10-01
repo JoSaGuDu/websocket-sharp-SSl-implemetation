@@ -49,6 +49,10 @@ namespace WebsocketServer
         {
             var certPath = ConfigurationManager.AppSettings["CertPath"].Trim();
             var certPass = ConfigurationManager.AppSettings["CertPass"].Trim();
+			
+		    Console.WriteLine("certificate path: {0}\npassword: {1}\n\n", certPath, certPass);
+	
+			
             return new X509Certificate2(certPath, certPass);
         }
     }
